@@ -40,8 +40,9 @@ Follow the steps below to set up and run this project locally.
 
 
 * **Wrapping to one column**
-* 
-  ![1-column](https://github.com/user-attachments/assets/041b8872-46ba-4816-88ae-831b8b596c94)
+  
+ ![1-column](https://github.com/user-attachments/assets/33f98228-8b94-46d6-a222-ba5952b21987)
+
  
 
 
