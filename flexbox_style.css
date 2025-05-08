@@ -1,0 +1,36 @@
+section{
+  display: flex;
+  align-items:stretch; /*stretch is default value*/
+  gap: 10px;
+  flex-flow: row wrap;
+  width: 80%; /* Adjust the width of the container */
+  margin: 0 auto; 
+  border: 15px solid hsl(55, 50%, 45%);
+  padding: 10px;
+}
+
+img{
+  width: 300px;
+  border: 3px solid hsla(60, 45%, 43%, 0.82);
+  flex: 1;
+  box-shadow: 2.5px 2.5px 2.5px hsl(210deg, 30%, 12%);
+}
+
+img:hover {
+  opacity: 0.8;
+  filter: grayscale(20%) ;
+  transition: 1s ease-in;
+  cursor:pointer;
+  transform: scale(0.95);
+  border: 2.5px solid hsl(210deg, 30%, 12%);
+  
+}
+
+h2{
+  display: flex;
+  justify-content: center;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 2px 2px hsla(60, 45%, 43%, 0.82);
+  color: hsl(210deg, 30%, 12%);
+}
+
